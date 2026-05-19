@@ -275,7 +275,12 @@ of this software and associated documentation files...
 
 
 🔗 Useful Links
+<<<<<<< HEAD
 GitHub Repository
+=======
+- [GitHub Repository](https://github.com/your-username/InspAIre_Bot)
+- [Telegram Bot](https://t.me/my_quote_b22rskin_bot)
+>>>>>>> bf3f3e4b1349da45c5bffc45de9c3edc1ba7b941
 
 Telegram Bot
 
@@ -285,6 +290,7 @@ ZenQuotes API
 
 
 📸 Screenshots
+<<<<<<< HEAD
 ![alt text](image.png)
 
 ![](image-1.png)
@@ -292,5 +298,16 @@ ZenQuotes API
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
+=======
+<img width="753" height="524" alt="image" src="https://github.com/user-attachments/assets/ca23a2db-9832-4c73-b4f8-f40da0710755" />
+
+<img width="794" height="752" alt="image" src="https://github.com/user-attachments/assets/86099ecd-5b9a-4039-99a9-3095725eb0ad" />
+
+<img width="926" height="722" alt="image" src="https://github.com/user-attachments/assets/baf61f4c-97fb-434d-8d58-8a1d643e7183" />
+
+<img width="1032" height="226" alt="image" src="https://github.com/user-attachments/assets/38022f23-890b-40d0-b2e3-5f43ccb3c74d" />
+
+<img width="1431" height="245" alt="image" src="https://github.com/user-attachments/assets/15d5b321-8dbf-4c32-8de2-bf3ad187b25d" />
+>>>>>>> bf3f3e4b1349da45c5bffc45de9c3edc1ba7b941
 
 
