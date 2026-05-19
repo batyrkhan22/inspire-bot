@@ -286,9 +286,14 @@ ZenQuotes API
 
 
 📸 Screenshots
-![Start Command](screenshots/start.png)
-![Beautify My Text](screenshots/beautify.png)
-![Random Quote](screenshots/quote.png)
-![Daily Reminder](screenshots/reminder.png)
-![Help](screenshots/help.png)
+<img width="753" height="524" alt="image" src="https://github.com/user-attachments/assets/ca23a2db-9832-4c73-b4f8-f40da0710755" />
+
+<img width="794" height="752" alt="image" src="https://github.com/user-attachments/assets/86099ecd-5b9a-4039-99a9-3095725eb0ad" />
+
+<img width="926" height="722" alt="image" src="https://github.com/user-attachments/assets/baf61f4c-97fb-434d-8d58-8a1d643e7183" />
+
+<img width="1032" height="226" alt="image" src="https://github.com/user-attachments/assets/38022f23-890b-40d0-b2e3-5f43ccb3c74d" />
+
+<img width="1431" height="245" alt="image" src="https://github.com/user-attachments/assets/15d5b321-8dbf-4c32-8de2-bf3ad187b25d" />
+
 
